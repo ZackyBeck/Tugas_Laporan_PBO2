@@ -1,2 +1,2 @@
-# Tugas_Laporan_PBO2
-Tugas Laporan PBO2 Kelompok
+# Tugas_PBO2
+Tugas PBO2 Kelompok
